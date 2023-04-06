@@ -1,4 +1,4 @@
-# Research Docs
+# AI Research
 
 This repository contains the code for the research documentation project.
 
@@ -42,10 +42,10 @@ Install [conda][conda], a program for creating python virtual environments. Then
 
 ```bash
 # create a new virtual environment
-conda create --name docs-research python=3.8 pip
+conda create --name ai-research python=3.8 pip
 
 # activate the environment
-conda activate docs-research
+conda activate ai-research
 
 # deactivate the environment
 deactivate
